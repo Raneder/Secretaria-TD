@@ -243,21 +243,11 @@ p{
     text-align: left;
  }
 
- .ftyi-icono{
-    color:  #ff0076;
+ .a-ftyi{
+    text-decoration: none;
+    color:#3cd1ef;
  }
 
- .facebook-icono{
-    color: #0028ff;
- }
-
- .twitter-icono{
-    color: #00fff6;
- }
-
- .youtube-icono{
-    color: red;
- }
 
  .carrera-pregrado{
     color: white;
