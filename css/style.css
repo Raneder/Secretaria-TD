@@ -2,6 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
     background-color: black;
+    
 }
 
 /* Navbar */
@@ -131,7 +132,7 @@ p{
 }
 
 .footering-img{
-    width: 53%;
+    width: 30%;
     
 }
 
