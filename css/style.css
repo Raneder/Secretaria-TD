@@ -1,0 +1,295 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+/* Navbar */
+
+.navbar {
+    background-color: #5e4485 !important;
+}
+
+.logo {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 50px;
+}
+
+.nitems {
+    color: white ;
+}
+
+/* Carrousel */
+
+.img {
+    filter: brightness(50%);
+    height: 600px;
+}
+
+.colorbtnh5p {
+    color: #fcdb03;
+    color: white;
+}
+
+/* Personas */
+
+.transformaciondigital {
+    text-align: center;
+    margin-top: 10px;
+    color: #ffa300;
+    margin-bottom: 10px;
+}
+
+h5 {
+    color:  #009FBD;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+.cardtitle{
+    background:black;
+    
+    
+}
+
+.cardtitle1{
+    background:black;
+    
+}
+
+.cardtitle2{
+    background:black;
+    
+}
+
+.cardtitle3{
+    background:black;
+    
+}
+
+.letracarta{
+    color:#8400ff;
+}
+
+.letracarta1{
+    color:white;
+    text-align: center;
+}
+
+/* Vision, Mision y valores */
+
+.videos{
+    color:#ffa300;
+}
+
+.titulovmv{
+    color:#ffa300;
+}
+.visionmisionvalor{
+    color: #e7c500;
+}
+
+h3{
+    /* margin-top: 50px; */
+    text-align: center;
+    color: white;
+}
+
+.videovmv{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    filter:brightness(100%);
+    
+}
+
+p{
+    color: #009FBD;
+    text-align: justify;
+    
+}
+.colorvmv{
+    background-color: #222;
+}
+.videos{
+    background-color: black;
+    color:#5e4485;
+}
+
+.contenedor-texto-3{
+    background-color:#222;
+}
+
+/* footer */
+
+.footerimg{
+    background-color: #322747;
+}
+
+.footering-img{
+    width: 53%;
+    
+}
+
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.contenedor-footer{
+    background: #5e4485;
+}
+
+ .reseña-titulo{
+    
+   color: white;
+   text-align: left;
+   margin-top: 20px;
+   margin-bottom: 10px;
+ }
+
+ 
+ .texto-reseña{
+    color: white;
+ }
+
+ .carrera-grado{
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+ }
+
+ .a-ingenieria{
+    text-decoration: none;
+    color:#3cd1ef;
+ }
+
+
+
+ .carrera-posgrado{
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+ }
+
+ .a-posgrado{
+    text-decoration: none;
+    color:#3cd1ef;
+ }
+ .contenedor-contacto{
+    text-align: justify;
+ }
+
+ .titulo-contacto{
+    padding-top: 10px;
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ .datos-contactos{
+    color: white;
+ }
+
+
+ .ciclo-licenciaturas{
+    color: white;
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+ }
+
+ .ul-footer{
+    color: #3cd1ef;
+    padding-left: 16px;
+    margin-left: 2px;
+ }
+
+ .a-licenciatura{
+    text-decoration: none;
+    color:#3cd1ef;
+ }
+
+ .cursos{
+    color: white;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+ }
+
+ .p-cursos{
+    color:white;
+ }
+
+ .a-cursos{
+    text-decoration: none;
+    color:#3cd1ef;
+ }
+
+
+
+ .seguinos-left{
+    text-align: left;
+ }
+
+ .ftyi-icono{
+    color:  #ff0076;
+ }
+
+ .facebook-icono{
+    color: #0028ff;
+ }
+
+ .twitter-icono{
+    color: #00fff6;
+ }
+
+ .youtube-icono{
+    color: red;
+ }
+
+ .carrera-pregrado{
+    color: white;
+    text-align: left;
+ }
+
+ .a-tecnicatura{
+    text-decoration: none;
+    color:#3cd1ef;
+ }
+
+ .text-center{
+    color:#3cd1ef;
+    
+ }
+
+ .contenedor-footer1{
+    background-color:#322747;
+ }
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+

@@ -1,0 +1,179 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+.img {
+    filter: brightness(50%);
+    height: 600px;
+}
+
+.phishing {
+    color: #fcdb03;
+}
+
+.redessociales {
+    color: #fcdb03;
+    
+}
+
+.wifipublica {
+    color: #fcdb03;
+    
+}
+
+/* Navbar */
+
+.navbar {
+    background-color: #5e4485 !important;
+    
+}
+
+.logo {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 50px;
+}
+
+.nitems {
+    color: white ;
+}
+
+/* Cards Phishing*/
+
+.evitarphishing {
+    text-align: center;
+    margin-top: 10px;
+    color:#c501e2;
+}
+
+
+.card {
+    width: 15rem;
+    display:inline-flex;
+    /* margin-left: 5px; */
+    background-color: black;
+    align-items: center;
+    
+}
+
+.phi {
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+
+.margen {
+    margin-top: 30px;
+}
+li{
+    color:#1cedae;
+    text-align: justify;
+}
+.Phishing2{
+    color: #a7fd2a;
+    padding-left: 10px;
+    
+    
+}
+
+.card-text{
+    color: #1cedae;
+    text-align: justify;
+}
+
+/* Cards Cuentas y Redes Sociales */
+
+.cuentasredessociales{
+    text-align: center;
+    margin-top: 10px;
+    color:#2b97fa;
+}
+
+
+.card {
+    width: 15rem;
+    display:inline-flex;
+    /* margin-left: 5px; */
+    background-color: black;
+    align-items: center;
+    
+}
+
+.crs {
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+
+
+
+.margen {
+    margin-top: 30px;
+}
+li{
+    color:#1cedae;
+    text-align: justify;
+}
+.CuentasyRedesSociales{
+    color: #a7fd2a;
+    padding-left: 10px;
+    text-align: center;
+    
+    
+}
+
+.card-text{
+    color: #1cedae;
+    text-align: justify;
+}
+
+/* Cards Wifi Publicas  */
+
+.evitarwifipublicas {
+    text-align: center;
+    margin-top: 10px;
+    color:#2b97fa;
+}
+
+
+.card {
+    width: 15rem;
+    display:inline-flex;
+    /* margin-left: 5px; */
+    background-color: black;
+    align-items: center;
+    
+}
+
+.rp {
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+
+.margen {
+    margin-top: 30px;
+}
+li{
+    color:#1cedae;
+    text-align: justify;
+}
+.RedesPublicas{
+    color: #a7fd2a;
+    padding-left: 10px;
+    text-align: center;
+    
+    
+}
+
+.card-text{
+    color: #1cedae;
+    text-align: justify;
+}
+
