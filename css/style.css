@@ -121,6 +121,13 @@ p{
     color:#5e4485;
 }
 
+.botonmav{
+    margin-top: 10px;
+    margin-left: 40%;
+    background-color: #fea444;
+    color:black;
+}
+
 .contenedor-texto-3{
     background-color:#222;
 }
