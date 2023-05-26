@@ -1,7 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
-    background-color: black;
+    background-color: white;
     
 }
 
@@ -34,4 +34,8 @@ label{
 .colorbtnh5p{
     color: #fcdb03;
     /* color: white; */
+}
+
+.img-footer{
+    margin-top: 10px;
 }
